@@ -1,0 +1,15 @@
+C:\Users\igor\Desktop\Example\Exsample004_Div\obj\Debug\net8.0\Exsample004_Div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor\Desktop\Example\Exsample004_Div\obj\Debug\net8.0\Exsample004_Div.AssemblyInfoInputs.cache
+C:\Users\igor\Desktop\Example\Exsample004_Div\obj\Debug\net8.0\Exsample004_Div.AssemblyInfo.cs
+C:\Users\igor\Desktop\Example\Exsample004_Div\obj\Debug\net8.0\Exsample004_Div.csproj.CoreCompileInputs.cache
+C:\Users\igor\Desktop\Example\Exsample004_Div\obj\Debug\net8.0\Exsample004_Div.sourcelink.json
+C:\Users\igor\Desktop\Example\Exsample004_Div\bin\Debug\net8.0\Exsample004_Div.exe
+C:\Users\igor\Desktop\Example\Exsample004_Div\bin\Debug\net8.0\Exsample004_Div.deps.json
+C:\Users\igor\Desktop\Example\Exsample004_Div\bin\Debug\net8.0\Exsample004_Div.runtimeconfig.json
+C:\Users\igor\Desktop\Example\Exsample004_Div\bin\Debug\net8.0\Exsample004_Div.dll
+C:\Users\igor\Desktop\Example\Exsample004_Div\bin\Debug\net8.0\Exsample004_Div.pdb
+C:\Users\igor\Desktop\Example\Exsample004_Div\obj\Debug\net8.0\Exsample004_Div.dll
+C:\Users\igor\Desktop\Example\Exsample004_Div\obj\Debug\net8.0\refint\Exsample004_Div.dll
+C:\Users\igor\Desktop\Example\Exsample004_Div\obj\Debug\net8.0\Exsample004_Div.pdb
+C:\Users\igor\Desktop\Example\Exsample004_Div\obj\Debug\net8.0\Exsample004_Div.genruntimeconfig.cache
+C:\Users\igor\Desktop\Example\Exsample004_Div\obj\Debug\net8.0\ref\Exsample004_Div.dll
