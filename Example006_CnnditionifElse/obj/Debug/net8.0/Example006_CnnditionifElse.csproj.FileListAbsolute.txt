@@ -1,0 +1,15 @@
+C:\Users\igor\Desktop\Example\Example006_CnnditionifElse\bin\Debug\net8.0\Example006_CnnditionifElse.exe
+C:\Users\igor\Desktop\Example\Example006_CnnditionifElse\bin\Debug\net8.0\Example006_CnnditionifElse.deps.json
+C:\Users\igor\Desktop\Example\Example006_CnnditionifElse\bin\Debug\net8.0\Example006_CnnditionifElse.runtimeconfig.json
+C:\Users\igor\Desktop\Example\Example006_CnnditionifElse\bin\Debug\net8.0\Example006_CnnditionifElse.dll
+C:\Users\igor\Desktop\Example\Example006_CnnditionifElse\bin\Debug\net8.0\Example006_CnnditionifElse.pdb
+C:\Users\igor\Desktop\Example\Example006_CnnditionifElse\obj\Debug\net8.0\Example006_CnnditionifElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor\Desktop\Example\Example006_CnnditionifElse\obj\Debug\net8.0\Example006_CnnditionifElse.AssemblyInfoInputs.cache
+C:\Users\igor\Desktop\Example\Example006_CnnditionifElse\obj\Debug\net8.0\Example006_CnnditionifElse.AssemblyInfo.cs
+C:\Users\igor\Desktop\Example\Example006_CnnditionifElse\obj\Debug\net8.0\Example006_CnnditionifElse.csproj.CoreCompileInputs.cache
+C:\Users\igor\Desktop\Example\Example006_CnnditionifElse\obj\Debug\net8.0\Example006_CnnditionifElse.sourcelink.json
+C:\Users\igor\Desktop\Example\Example006_CnnditionifElse\obj\Debug\net8.0\Example006_CnnditionifElse.dll
+C:\Users\igor\Desktop\Example\Example006_CnnditionifElse\obj\Debug\net8.0\refint\Example006_CnnditionifElse.dll
+C:\Users\igor\Desktop\Example\Example006_CnnditionifElse\obj\Debug\net8.0\Example006_CnnditionifElse.pdb
+C:\Users\igor\Desktop\Example\Example006_CnnditionifElse\obj\Debug\net8.0\Example006_CnnditionifElse.genruntimeconfig.cache
+C:\Users\igor\Desktop\Example\Example006_CnnditionifElse\obj\Debug\net8.0\ref\Example006_CnnditionifElse.dll
