@@ -1,0 +1,15 @@
+C:\Users\igor\Desktop\Example\Exsample005_Sav\bin\Debug\net8.0\Exsample005_Sav.exe
+C:\Users\igor\Desktop\Example\Exsample005_Sav\bin\Debug\net8.0\Exsample005_Sav.deps.json
+C:\Users\igor\Desktop\Example\Exsample005_Sav\bin\Debug\net8.0\Exsample005_Sav.runtimeconfig.json
+C:\Users\igor\Desktop\Example\Exsample005_Sav\bin\Debug\net8.0\Exsample005_Sav.dll
+C:\Users\igor\Desktop\Example\Exsample005_Sav\bin\Debug\net8.0\Exsample005_Sav.pdb
+C:\Users\igor\Desktop\Example\Exsample005_Sav\obj\Debug\net8.0\Exsample005_Sav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor\Desktop\Example\Exsample005_Sav\obj\Debug\net8.0\Exsample005_Sav.AssemblyInfoInputs.cache
+C:\Users\igor\Desktop\Example\Exsample005_Sav\obj\Debug\net8.0\Exsample005_Sav.AssemblyInfo.cs
+C:\Users\igor\Desktop\Example\Exsample005_Sav\obj\Debug\net8.0\Exsample005_Sav.csproj.CoreCompileInputs.cache
+C:\Users\igor\Desktop\Example\Exsample005_Sav\obj\Debug\net8.0\Exsample005_Sav.sourcelink.json
+C:\Users\igor\Desktop\Example\Exsample005_Sav\obj\Debug\net8.0\Exsample005_Sav.dll
+C:\Users\igor\Desktop\Example\Exsample005_Sav\obj\Debug\net8.0\refint\Exsample005_Sav.dll
+C:\Users\igor\Desktop\Example\Exsample005_Sav\obj\Debug\net8.0\Exsample005_Sav.pdb
+C:\Users\igor\Desktop\Example\Exsample005_Sav\obj\Debug\net8.0\Exsample005_Sav.genruntimeconfig.cache
+C:\Users\igor\Desktop\Example\Exsample005_Sav\obj\Debug\net8.0\ref\Exsample005_Sav.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exsample005_Sav/1.0.0": {
+        "runtime": {
+          "Exsample005_Sav.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exsample005_Sav/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
